@@ -1,0 +1,41 @@
+Fictive-Template-Credits
+========================
+
+              Translation from English into Portuguese so faithful to the original texts.
+              
+              
+              
+              
+Remember, the template was design by http://automattic.com
+and http://newbloggerthemes.com. The template this rises no
+more free license giving you the right to remove the credits of
+their original creators.
+
+Information:Template Name: Fictive
+Author / URL: NewBloggerThemes | http://newbloggerthemes.com/
+Designer / URL: Automattic | http://automattic.com/
+Published Date: October 16, 2014
+Categories:
+1 Sidebar, 2 Columns, Adapted from Wordpress, Blue, Elegant, Fixed width, Fresh, Left Sidebar,
+Magazine, Minimalist, Red, Responsive, Rounded corners, Top Navigation Bar, Web 2.0, White,
+
+More Info : Fictive Blogger template is great responsive blogger theme for your personal blog.
+Make Fictive theme personal with a custom header image, a Gravatar, and links to your favorite
+social networks. Fictive Blogger template has a navigation menu, social buttons, left sidebar,
+custom icons and more.
+
+Download now from the original source: http://newbloggerthemes.com/download/163
+
+    
+VERSÃO TRADUZIDA
+
+A versão taduzida pelo developer Gilmarbemp (www.igilmar.tk) esta sobe licensa livre,
+mas não da o direito remover de quaisquer creditos.
+
+O tamplate é recomendado para blogs pessoais, mas podendo ser usado para o blog de sua
+empresa ou qualquer outro tipo de blog.
+
+Baixar agora a versão traduzida do template: https://mega.co.nz/#!OMUQDI7I!WEZ-nuAE-qNZixK2W3QQPbW5ObX_LXcvawNmhrLvyTE
+
+
+
