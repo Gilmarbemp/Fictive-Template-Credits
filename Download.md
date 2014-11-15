@@ -29,13 +29,13 @@ Download now from the original source: http://newbloggerthemes.com/download/163
     
 VERSÃO TRADUZIDA
 
-A versão taduzida pelo developer Gilmarbemp (www.igilmar.tk) esta sobe licensa livre,
+A versão taduzida pelo developer Gilmarbemp (www.gilmarbemp.tk) esta sobe licensa livre,
 mas não da o direito remover de quaisquer creditos.
 
 O tamplate é recomendado para blogs pessoais, mas podendo ser usado para o blog de sua
 empresa ou qualquer outro tipo de blog.
 
-Baixar agora a versão traduzida do template: https://mega.co.nz/#!OMUQDI7I!WEZ-nuAE-qNZixK2W3QQPbW5ObX_LXcvawNmhrLvyTE
+Baixar agora a versão traduzida do template: https://mega.co.nz/#!jYFEWAIY!NC_Xodh5HPPOQKdew13YhHcq5eCy6H-4Jk3Iiw5VNnk
 
 
 
