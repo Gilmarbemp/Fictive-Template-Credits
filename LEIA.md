@@ -8,7 +8,7 @@ Devidos creditos dados aos seus autores.
 Tradução feita do inglês para o português de forma fiel ao textos originais.
 Translation from English into Portuguese so faithful to the original texts.
 
-Tradução feita pelo developer http://www.igilmar.tk.
+Tradução feita pelo developer http://www.gilmarbemp.tk.
 
                 O Design foi feito unicamente por http://automattic.com/
                 e parceria com http://newbloggerthemes.com/
